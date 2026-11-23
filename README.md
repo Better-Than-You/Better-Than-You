@@ -1,52 +1,101 @@
-### Hi there 👋<h2> I'm Sujatro</h2>
+<div align="center">
 
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NvMjhhbHV1NWN1NHM2bHkzem41dmJqb3hwZnhuczZhenBqdTl6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="230">
+<!-- Hero Section -->
+<p align="center">
+<img width="1238" height="307" alt="wooper-banner" src="https://github.com/user-attachments/assets/abf0b9b6-48d4-4da9-9746-937655165e5c" />
+</p>
 
-<h3> •💻 About Me </h3>
+<a href="https://github.com/better-than-you">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=3000&pause=1000&color=E63946&background=0D111700&center=true&vCenter=true&width=780&height=65&lines=ME+IS+SUJATRO!;TA+%40+IIT+MADRAS+%7C+BS+DATA+SCIENCE;AI%2FML+%26+FULL+STACK;" alt="Typing SVG" />
+</a>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/premier-ball.png" width="22" alt="Premier Ball" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/luxury-ball.png" width="22" alt="Luxury Ball" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="22" alt="Ultra Ball" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="22" alt="Master Ball" />
+</p>
 
+</div>
 
-- 🤔 &nbsp; Exploring new technologies and making not so useful stuff.
+---
 
-- 🎓 &nbsp; Studying BS in Data Science and Programming from IITM.
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="24" valign="middle" /> About Me
 
-- 🌱 &nbsp; Learning about Web design and Automation.
+- 🎓 Pursuing a **B.S. in Data Science and Applications** at **IIT Madras** (`9.24 CGPA`)
+- 🧑‍🏫 **Teaching Assistant** for *System Commands (SE2001)* at IIT Madras — Linux, shell tools, Regex, and VM workflows
+- 🧠 Focused on **AI/ML, NLP, Tabular, Full Stack**, and **Linux Systems Engineering**
+- 🏆 **Gold Medal** — Sherlock, Sardar Vallabhbhai NIT, Surat
 
-- ✍️ &nbsp; Pursuing Web Development and Machine Learning as hobbies.
+---
 
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/tm-dark.png" width="24" valign="middle" /> Languages
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-6F35FC?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-705746?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7D02C?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-6390F0?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bash-707089?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" alt="Bash" />
+</p>
 
-### <h2>Programming Languages 🌐</h2>
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png" width="24" valign="middle" /> AI, ML & Data Science
 
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width="24">]() |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TS" width="24">]() |[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="28">]()  |[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="24">]()  | [<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="jQuery" width="24">]()
-|---|---|---|---|---|
- 
-### <h2> Tools 🛠️ </h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE8130?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-E2BF65?style=for-the-badge&logo=tensorflow&logoColor=000000" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-C22E28?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/XGBoost-6390F0?style=for-the-badge&logo=xgboost&logoColor=FFFFFF" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-7AC74C?style=for-the-badge&logo=lightgbm&logoColor=000000" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/CatBoost-F7D02C?style=for-the-badge&logoColor=000000" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/Hugging_Face-F95587?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-7AC74C?style=for-the-badge&logo=langchain&logoColor=000000" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ONNX-0D1117?style=for-the-badge&logo=onnx&logoColor=F0F6FC" alt="ONNX" />
+  <img src="https://img.shields.io/badge/Pandas-735797?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-96D9D6?style=for-the-badge&logo=numpy&logoColor=000000" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-6390F0?style=for-the-badge&logo=scipy&logoColor=FFFFFF" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-F7D02C?style=for-the-badge&logo=weightsandbiases&logoColor=000000" alt="Weights & Biases" />
+</p>
 
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/767px-Pandas_mark.svg.png" alt="Pandas" width="24">]()  | [<img src="https://raw.githubusercontent.com/mongodb/mongo/refs/heads/master/docs/leaf.svg" alt="Mongodb" width="22">]()  | [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="24">]()  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/460px-Flask_logo.svg.png" alt="Flask" width="60">]()  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="24">]()| [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="24">]() |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">]()
-|---|---|---|---|---|---|---|
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/leftovers.png" width="24" valign="middle" /> Full-Stack, Databases & Workflow
 
+<p align="left">
+  <img src="https://img.shields.io/badge/React-96D9D6?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=F0F6FC" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Flask-707089?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
+  <img src="https://img.shields.io/badge/Streamlit-E63946?style=for-the-badge&logo=streamlit&logoColor=FFFFFF" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Qt6_%2F_QML-7AC74C?style=for-the-badge&logo=qt&logoColor=000000" alt="Qt6/QML" />
+  <img src="https://img.shields.io/badge/PostgreSQL-6390F0?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-6390F0?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-C22E28?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/n8n-EE8130?style=for-the-badge&logo=n8n&logoColor=FFFFFF" alt="n8n" />
+</p>
 
+---
 
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/vs-seeker.png" width="24" valign="middle" /> GitHub Stats
 
-### <h2>To Learn</h2>
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=better-than-you&show_icons=true&hide=contribs,issues&bg_color=0d1117&title_color=e63946&text_color=f0f6fc&icon_color=e63946&border_color=e63946" alt="Sujatro's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=better-than-you&layout=compact&bg_color=0d1117&title_color=e63946&text_color=f0f6fc&border_color=e63946" alt="Sujatro's Top Languages" />
+</div>
 
-|[<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Python" width="28">]()  |  [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="70">]() |[<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="tensor-flow" width="100">]()
-|---|---|---|
-<hr>
+---
 
+### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/rare-candy.png" width="24" valign="middle" /> Contribution Snake
 
-### <h2>💻 Some stats 💻</h2>
-<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/better-than-you/better-than-you/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/better-than-you/better-than-you/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/better-than-you/better-than-you/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-[![Sujatro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=better-than-you&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/better-than-you)
-
-<br/>
-
-<br/>
-
-<img align='right' src="https://media1.tenor.com/m/MYZgsN2TDJAAAAAd/this-is.gif" width="230">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=better-than-you&show_icons=true&theme=merko&hide=["contribs","issues"])
-
-<br><br>
+<div align="center">
+  <sub>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="16" valign="middle" />
+    <em>"Every disaster foretold is just another bug waiting to be fixed."</em>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="16" valign="middle" />
+  </sub>
+</div>
